@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tqmdrxh.github.io/sitemap.xml

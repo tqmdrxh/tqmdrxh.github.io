@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "3c2c6f183725706f0eda1ede",
+  "owner": "tqmdrxh",
+  "repo": "tqmdrxh.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "f8c2aac11a49437d85b48772",
+      "a": "百草园(NSFWCloud)",
+      "b": "官方发布页",
+      "entity": "百草园(NSFWCloud)",
+      "brand": "百草园(NSFWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ca35c8925af3e0031415293180a40cf903ad3b21e7e0e49a52d0b331bc654b52",
+      "content": {
+        "primary_entity": "百草园(NSFWCloud)",
+        "keyword1": "百草园(NSFWCloud)",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助用户根据自身需求挑选合适的加速方案。",
+          "AI_HERO_SUBTITLE": "百草园加速器，畅享全球网络",
+          "AI_HERO_INTRO": "百草园(NSFWCloud)是一款面向海外网络访问的加速工具，提供基础版、旗舰版和团队版三种套餐，分别适配个人轻量使用、多设备流媒体与游戏加速、团队协作等场景。用户可根据设备数量与流量需求灵活选择。",
+          "AI_VISUAL_TITLE": "百草园，开启高效加速",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备在线",
+          "AI_HIGHLIGHT_3": "团队版20台设备高带宽",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从设备兼容、订阅周期到套餐权益，百草园提供清晰的选择路径。",
+          "AI_FEATURE_TITLE_1": "设备选择",
+          "AI_FEATURE_TEXT_1": "根据日常使用设备数量挑选套餐，基础版支持3台，旗舰版支持5台，团队版支持20台。",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更划算。基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_FEATURE_TITLE_3": "套餐对比",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏加速与7x24优先支持；团队版提供VIP高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备选择客户端，依据客户端文档配置订阅。常见客户端包括Windows、macOS、Android、iOS及路由器插件。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合流媒体与游戏多设备，团队版适合小型团队协作。可依据流量与设备数选择。",
+          "AI_GUIDE_TITLE": "三步上手百草园",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和流量需求，从基础版、旗舰版或团队版中挑选合适套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统版本和网络环境是否满足所选客户端的基本要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端的使用文档，导入订阅信息并完成连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "基础版适合3台设备以内、流量需求不高的用户；旗舰版适合需要流媒体解锁和游戏加速的5台设备用户；团队版适合20台设备以内的小型团队。",
+          "AI_FAQ_QUESTION_2": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "年付方案价格更优惠，基础版年付150元，旗舰版年付350元，团队版年付850元，功能权益与月付一致，仅计费周期不同。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备同时在线。超出数量可能导致连接受限。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，在所选客户端的订阅管理功能中粘贴链接并更新，即可完成导入。具体步骤可参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下月重置，或升级至更高档套餐以获取更多流量。团队版提供1000GB月流量，适合重度使用。",
+          "AI_CLOSING_TITLE": "百草园，加速无忧",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选择套餐，按文档配置订阅，即刻体验稳定加速。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "10b6a2c65d1fcfa3a1f586fbb056a58349bdfda33da91fb0f959d32d514b4e41",
+    "sitemap.xml": "10764b5c9b41c18e7402fe43fd7eddd4b43dc87185631c61d7555411f30f1fc4",
+    "robots.txt": "4f690266432cdfd77993f743212e273e1da8f55289f0d848b77fc9414e5254e0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2c2090b267bc2fec38d90f87abc13fea8f4b6b1ba7b1feeefee4c9a46e25cb58"
+}
